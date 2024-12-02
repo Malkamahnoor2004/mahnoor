@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+form{
+    text-align: center;
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 20px;
+    background-color:  rgb(80, 188, 255);
+    width: fit-content;
+    margin-left: 26%;
+}
+button{
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(157, 157, 235);
+    color: black
+}
+input{
+    border: 1px solid green;
+    cursor: pointer;
+}
+label{
+    color: white;
+    font-weight: bold;
+}
